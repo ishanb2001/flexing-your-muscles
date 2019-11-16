@@ -1,4 +1,4 @@
-html{
+html {
   box-sizing: border-box;
   font-family: sans-serif;
   line-height: 1.5;
@@ -8,11 +8,11 @@ html{
   box-sizing: inherit;
 }
 
-body{
+body {
   margin: 0;
 }
 
-img{
+img {
   display: block;
   width: 100%;
 }
@@ -30,7 +30,7 @@ img{
   color: #005e76;
 }
 
-.footer h2{
+.footer h2 {
   margin-top: 0;
   margin-bottom: 1.5rem;
 }
@@ -46,14 +46,14 @@ img{
   color: #003442;
 }
 
-.links{
+.links {
   padding: 0 1rem;
 }
 
 .social {
   margin-left: auto;
   padding: 0 1rem;
-  display:flex;
+  display: flex;
 }
 
 .social > li {
